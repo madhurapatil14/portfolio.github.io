@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [Madhura Patil] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -20,20 +20,20 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## Portfolio Topic
 
 <dl>
-<dt>Course Name</dt>
+<dt>Design and  Analysis of Algorithms</dt>
 <dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
+<dt> 24ECSC205</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Madhura Patil</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>02FE23BCS045</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Proff. Vaishali Parab</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University Belagavi Campus</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Military Logistics and Supply Chain</dd>
 </dl>
 
 <br> 
